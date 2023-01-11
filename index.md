@@ -1,4 +1,4 @@
 ---
-# title: Welcome to my jorney
+title: Welcome to my blog
 ---
 
